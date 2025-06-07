@@ -36,7 +36,8 @@ Dijkstra’s Algorithm → Finds cheapest/fastest route.
 BFS → Lists all possible connecting flights.
 
 
-Sample Input & Output
+Sample Input & Output:
+
 Enter source airport code: DEL  
 Enter destination airport code: BOM  
 
