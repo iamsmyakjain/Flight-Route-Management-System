@@ -67,11 +67,7 @@ HashMap Lookup	O(1) airport/flight searches
 Contributing:
 
 Fork the repo.
-
 Create a branch (git checkout -b improve-feature).
-
 Commit changes (git commit -m "Add new airports").
-
 Push (git push origin improve-feature).
-
 Open a Pull Request.
