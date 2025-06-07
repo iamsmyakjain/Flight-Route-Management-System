@@ -23,9 +23,11 @@ Project Structure:
           ├── README.md  
 
 How It Works:
+
 Graph Representation
 Airports → Nodes
 Flight routes → Weighted Edges (distance, fare, duration)
+
 
 User Input
 Enter source and destination airport codes (e.g., DEL for Delhi).
@@ -57,13 +59,19 @@ Option 1 via GOI:
 
 
 Algorithms Used:
+
 Dijkstra’s	Shortest path (min fare/duration)
 BFS	Explore all possible routes
 HashMap Lookup	O(1) airport/flight searches
 
 Contributing:
+
 Fork the repo.
+
 Create a branch (git checkout -b improve-feature).
+
 Commit changes (git commit -m "Add new airports").
+
 Push (git push origin improve-feature).
+
 Open a Pull Request.
